@@ -42,7 +42,7 @@ nav ul li {
 header {
   position: fixed;
   top: 0px;
-  z-index: 100;
+  z-index: 90;
   background-color: white;
   height: 66px;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
